@@ -179,7 +179,7 @@ export default {
 }
 .column {
   flex-grow: 1;
-  width: 33%;
+  width: 30%;
 }
 .column img {
   max-width: 100%;
@@ -188,11 +188,11 @@ export default {
 @media (max-width: 768px) {
   .row[data-v-4a1f852f] {
     display: flex;
-    max-width: 90vw;
-    max-height: 90vh;
+    max-width: 20vw;
+    max-height: 20vh;
     flex-wrap: wrap;
     margin: auto;
-    margin-bottom: 60px;
+    margin-bottom: 20px;
   }
 }
 </style>
